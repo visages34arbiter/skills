@@ -41,6 +41,18 @@ npx skills@latest add mattpocock/skills
 ---
 
 
+## thai-claude
+
+```
+## Language Rules
+
+- Communicate with the user in Thai by default.
+- Always use English for code, comments, identifiers, filenames, logs, and developer-facing content.
+- Use Thai only for user-facing UI content, messages, localization resources, and authoritative Thai text.
+- Prefer localization files over hardcoded Thai text in application logic.
+- Keep references in their original language, preferring English for technical sources.
+```
+
 
 
 
