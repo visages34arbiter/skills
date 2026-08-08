@@ -41,7 +41,7 @@ npx skills@latest add mattpocock/skills
 ---
 
 
-## thai-claude
+## visages34arbiter/skills/thai-claude
 
 ```
 ## Language Rules
